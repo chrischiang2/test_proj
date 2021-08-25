@@ -1,6 +1,3 @@
-// Import the needed libraries and pull in additional requried libraries
-// https://confluence.it.keysight.com/display/trustForgeCorePipelineLibrary
-@Library('TrustForge Pipeline Library') _
 
 pipeline {
     agent any
